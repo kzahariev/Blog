@@ -2,3 +2,7 @@
 	path = public
 	url = https://github.com/kzahariev/krumakinec.github.io.git
 	branch = main
+[submodule "kzblog/public"]
+	path = kzblog/public
+	url = https://github.com/kzahariev/krumakinec.github.io.git
+	branch = main
